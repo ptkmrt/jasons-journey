@@ -1,1 +1,1 @@
-Final project for VISIONS 23 seminar.
+Final project for VISIONS 23 seminar; educational outreach game.
